@@ -18,4 +18,5 @@ for letter in ans:
         result += letter
 
 print(f"Исходное: {ans}")
+
 print(f"Зашифрованное: {result}")
